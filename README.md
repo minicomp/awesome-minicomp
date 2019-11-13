@@ -1,10 +1,12 @@
-# awesome-minicomp ![Awesome](https://awesome.re/badge-flat.svg)
+# awesome-minicomp ![Awesome](https://awesome.re/badge-flat.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 minimal computing [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) (in progress)
 
 
 ## thoughts
 - [GO::DH thought pieces on minimal computing](http://go-dh.github.io/mincomp/thoughts/)
+- [Using Wax for Digital Exhibits](https://www.youtube.com/watch?v=_oU3mKQnqwI&list=PLomHagvStAaCSXm7uS4VU5bJF_xDFfHia&index=21&t=0s) by [@dastorie](https://github.com/dastorie)
+- [Minimal computing + Libraries](https://www.youtube.com/watch?v=klhFJogcVXo&list=PLomHagvStAaCSXm7uS4VU5bJF_xDFfHia&index=28&t=0s) by [@sarahseverson](https://github.com/sarahseverson)
 
 ## friends
 - [plain-plain-text](https://plain-plain-text.org/)
@@ -20,5 +22,5 @@ minimal computing [awesome list](https://github.com/sindresorhus/awesome/blob/ma
 - [simple-cv](https://github.com/plain-plain-text/simple-cv)
 
 ## in the wild
-- [style revolution: journal des dames et des modes](https://stylerevolution.github.io/)
-- [small axe archipelagos](http://smallaxe.net/sxarchipelagos/index.html)
+- [style revolution: journal des dames et des modes](https://stylerevolution.github.io/) (uses Wax)
+- [small axe archipelagos](http://smallaxe.net/sxarchipelagos/index.html) (uses Ed)
