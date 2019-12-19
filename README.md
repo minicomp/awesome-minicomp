@@ -20,7 +20,9 @@ minimal computing [awesome list](https://github.com/sindresorhus/awesome/blob/ma
 ## utilities
 - [pagemaster](https://github.com/mnyrop/pagemaster)
 - [simple-cv](https://github.com/plain-plain-text/simple-cv)
+- [mdtopdf](https://github.com/bulbil/mdtopdf)
 
 ## in the wild
 - [style revolution: journal des dames et des modes](https://stylerevolution.github.io/) (uses Wax)
 - [small axe archipelagos](http://smallaxe.net/sxarchipelagos/index.html) (uses Ed)
+- [Monument Lab: Proposals](http://proposals.monumentlab.com/) (based on Wax)
