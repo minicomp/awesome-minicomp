@@ -26,3 +26,4 @@ minimal computing [awesome list](https://github.com/sindresorhus/awesome/blob/ma
 - [style revolution: journal des dames et des modes](https://stylerevolution.github.io/) (uses Wax)
 - [small axe archipelagos](http://smallaxe.net/sxarchipelagos/index.html) (uses Ed)
 - [Monument Lab: Proposals](http://proposals.monumentlab.com/) (based on Wax)
+- [Digital Beehive](https://kislakcenter.github.io/digital-beehive/) (uses Wax)
